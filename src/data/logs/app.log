@@ -1,0 +1,320 @@
+2024-11-10 19:59:00,163 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 19:59:02,576 - app_logger - INFO - Train data size: 24165
+2024-11-10 19:59:03,796 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 19:59:04,770 - app_logger - INFO - Dev data size: 1895
+2024-11-10 19:59:35,240 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-10 19:59:35,241 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-10 19:59:35,538 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24165
+2024-11-10 20:00:53,599 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:00:55,337 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:01:12,511 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:01:13,117 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:01:13,118 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:01:13,132 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:01:35,079 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:01:35,724 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:01:35,725 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:01:35,745 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:04:04,704 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:04:05,231 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:04:05,231 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:04:05,249 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:04:05,580 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-10 20:04:05,582 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-10 20:04:05,806 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24165
+2024-11-10 20:04:05,849 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-10 20:04:05,850 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.txt
+2024-11-10 20:04:05,869 - app_logger - INFO - Save complete! Save txt "dev.txt", size: 1895
+2024-11-10 20:48:41,567 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:48:42,186 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:48:42,201 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:48:42,219 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:49:30,138 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:49:30,771 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:49:30,771 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:49:30,787 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:51:50,340 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:51:50,878 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:51:50,878 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:51:50,893 - app_logger - INFO - Dev data size: 1895
+2024-11-10 20:53:00,146 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 20:53:00,694 - app_logger - INFO - Train data size: 24165
+2024-11-10 20:53:00,695 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 20:53:00,721 - app_logger - INFO - Dev data size: 1895
+2024-11-10 21:01:48,835 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 21:01:49,374 - app_logger - INFO - Train data size: 24165
+2024-11-10 21:01:49,375 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 21:01:49,394 - app_logger - INFO - Dev data size: 1895
+2024-11-10 21:02:27,306 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 21:02:27,843 - app_logger - INFO - Train data size: 24165
+2024-11-10 21:02:27,867 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 21:02:27,883 - app_logger - INFO - Dev data size: 1895
+2024-11-10 21:17:52,076 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 21:17:52,644 - app_logger - INFO - Train data size: 24165
+2024-11-10 21:17:52,657 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 21:17:52,677 - app_logger - INFO - Dev data size: 1895
+2024-11-10 21:19:02,396 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 21:19:02,941 - app_logger - INFO - Train data size: 24165
+2024-11-10 21:19:02,941 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 21:19:02,959 - app_logger - INFO - Dev data size: 1895
+2024-11-10 21:20:16,275 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-10 21:20:16,825 - app_logger - INFO - Train data size: 24165
+2024-11-10 21:20:16,826 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-10 21:20:16,841 - app_logger - INFO - Dev data size: 1895
+2024-11-11 10:27:58,511 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 10:27:59,098 - app_logger - INFO - Train data size: 24165
+2024-11-11 10:27:59,098 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 10:27:59,124 - app_logger - INFO - Dev data size: 1895
+2024-11-11 10:28:47,031 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 10:28:47,642 - app_logger - INFO - Train data size: 24165
+2024-11-11 10:28:47,642 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 10:28:47,663 - app_logger - INFO - Dev data size: 1895
+2024-11-11 12:52:57,349 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 12:52:57,971 - app_logger - INFO - Train data size: 24165
+2024-11-11 12:52:57,972 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 12:52:57,994 - app_logger - INFO - Dev data size: 1895
+2024-11-11 12:53:23,103 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 12:53:23,755 - app_logger - INFO - Train data size: 24165
+2024-11-11 12:53:23,756 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 12:53:23,783 - app_logger - INFO - Dev data size: 1895
+2024-11-11 12:53:42,063 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 12:53:42,701 - app_logger - INFO - Train data size: 24165
+2024-11-11 12:53:42,702 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 12:53:42,720 - app_logger - INFO - Dev data size: 1895
+2024-11-11 12:54:57,461 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 12:54:58,128 - app_logger - INFO - Train data size: 24165
+2024-11-11 12:54:58,128 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 12:54:58,148 - app_logger - INFO - Dev data size: 1895
+2024-11-11 12:56:10,230 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 12:56:10,799 - app_logger - INFO - Train data size: 24165
+2024-11-11 12:56:10,800 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 12:56:10,815 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:04:03,877 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:04:04,486 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:04:04,487 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:04:04,508 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:04:36,818 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:04:37,450 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:04:37,451 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:04:37,479 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:04:50,323 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:04:50,921 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:04:50,922 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:04:50,938 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:05:06,511 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:05:07,259 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:05:07,261 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:05:07,292 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:06:30,356 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:06:30,968 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:06:30,969 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:06:30,992 - app_logger - INFO - Dev data size: 1895
+2024-11-11 13:07:16,800 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 13:07:17,381 - app_logger - INFO - Train data size: 24165
+2024-11-11 13:07:17,382 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 13:07:17,403 - app_logger - INFO - Dev data size: 1895
+2024-11-11 18:04:56,165 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 18:04:56,850 - app_logger - INFO - Train data size: 24165
+2024-11-11 18:04:56,850 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 18:04:56,871 - app_logger - INFO - Dev data size: 1895
+2024-11-11 18:05:31,567 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 18:05:32,214 - app_logger - INFO - Train data size: 24165
+2024-11-11 18:05:32,214 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 18:05:32,230 - app_logger - INFO - Dev data size: 1895
+2024-11-11 19:22:17,024 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 19:22:17,826 - app_logger - INFO - Train data size: 24165
+2024-11-11 19:22:17,827 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 19:22:17,847 - app_logger - INFO - Dev data size: 1895
+2024-11-11 19:27:04,277 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-11 19:27:04,971 - app_logger - INFO - Train data size: 24165
+2024-11-11 19:27:04,972 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-11 19:27:04,992 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:34:34,304 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:34:35,156 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:34:35,157 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:34:35,196 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:35:23,352 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:35:24,224 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:35:24,224 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:35:24,246 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:36:08,850 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:36:09,636 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:36:09,636 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:36:09,659 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:37:12,384 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:37:13,224 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:37:13,225 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:37:13,259 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:37:56,308 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:37:57,033 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:37:57,034 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:37:57,054 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:38:42,853 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:38:43,729 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:38:43,730 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:38:43,751 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:40:52,158 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:40:52,958 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:40:52,958 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:40:52,984 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:42:19,623 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:42:20,521 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:42:20,523 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:42:20,548 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:42:49,704 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-12 11:42:50,570 - app_logger - INFO - Train data size: 24165
+2024-11-12 11:42:50,570 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-12 11:42:50,586 - app_logger - INFO - Dev data size: 1895
+2024-11-12 11:44:19,732 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-12 11:44:19,733 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-12 11:44:20,033 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24165
+2024-11-14 13:39:00,301 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-14 13:39:00,974 - app_logger - INFO - Train data size: 24165
+2024-11-14 13:39:00,975 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-14 13:39:00,994 - app_logger - INFO - Dev data size: 1895
+2024-11-14 13:40:11,369 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-14 13:40:11,370 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-14 13:40:11,597 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24165
+2024-11-14 14:35:19,269 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-14 14:35:19,866 - app_logger - INFO - Train data size: 24165
+2024-11-14 14:35:19,868 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-14 14:35:19,886 - app_logger - INFO - Dev data size: 1895
+2024-11-14 14:36:04,755 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-14 14:36:05,343 - app_logger - INFO - Train data size: 24165
+2024-11-14 14:36:05,344 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-14 14:36:05,364 - app_logger - INFO - Dev data size: 1895
+2024-11-14 14:37:29,950 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-14 14:37:29,951 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-14 14:37:30,186 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24850
+2024-11-14 14:37:37,201 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-14 14:37:37,202 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.txt
+2024-11-14 14:37:37,224 - app_logger - INFO - Save complete! Save txt "dev.txt", size: 1946
+2024-11-19 15:36:50,793 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:36:51,452 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:36:51,452 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:36:51,479 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:41:38,889 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:41:39,513 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:41:39,514 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:41:39,535 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:43:11,131 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:43:11,816 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:43:11,817 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:43:11,837 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:43:45,490 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:43:46,148 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:43:46,149 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:43:46,166 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:45:06,172 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:45:06,807 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:45:06,807 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:45:06,830 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:45:52,379 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:45:53,083 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:45:53,084 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:45:53,103 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:46:46,007 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:46:46,664 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:46:46,666 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:46:46,682 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:48:44,686 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:48:45,293 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:48:45,294 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:48:45,319 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:49:55,104 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:49:55,772 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:49:55,772 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:49:55,797 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:50:22,527 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:50:23,176 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:50:23,177 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:50:23,198 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:51:49,825 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:51:50,463 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:51:50,463 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:51:50,483 - app_logger - INFO - Dev data size: 1895
+2024-11-19 15:52:49,234 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 15:52:49,839 - app_logger - INFO - Train data size: 24165
+2024-11-19 15:52:49,840 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 15:52:49,860 - app_logger - INFO - Dev data size: 1895
+2024-11-19 16:05:51,756 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 16:05:52,422 - app_logger - INFO - Train data size: 24165
+2024-11-19 16:05:52,423 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 16:05:52,444 - app_logger - INFO - Dev data size: 1895
+2024-11-19 16:09:09,876 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 16:09:10,530 - app_logger - INFO - Train data size: 24165
+2024-11-19 16:09:10,531 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 16:09:10,548 - app_logger - INFO - Dev data size: 1895
+2024-11-19 16:16:20,010 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 16:16:20,668 - app_logger - INFO - Train data size: 24165
+2024-11-19 16:16:20,669 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 16:16:20,690 - app_logger - INFO - Dev data size: 1895
+2024-11-19 17:51:54,461 - app_logger - INFO - 增强后的数据量：303374
+2024-11-19 17:52:25,206 - app_logger - INFO - 增强后的数据量：303374
+2024-11-19 17:57:08,060 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 17:57:08,680 - app_logger - INFO - Train data size: 24165
+2024-11-19 17:57:08,680 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 17:57:08,699 - app_logger - INFO - Dev data size: 1895
+2024-11-19 17:57:08,699 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train_aug.json
+2024-11-19 17:57:11,224 - app_logger - INFO - Train data size: 303374
+2024-11-19 17:58:14,491 - app_logger - INFO - 增强后的数据量：303374
+2024-11-19 17:58:31,073 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 17:58:31,698 - app_logger - INFO - Train data size: 24165
+2024-11-19 17:58:31,699 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 17:58:31,717 - app_logger - INFO - Dev data size: 1895
+2024-11-19 17:58:31,718 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train_aug.json
+2024-11-19 17:58:33,581 - app_logger - INFO - Train data size: 303374
+2024-11-19 18:00:23,068 - app_logger - INFO - 增强后的数据量：303374
+2024-11-19 18:00:36,662 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 18:00:37,295 - app_logger - INFO - Train data size: 24165
+2024-11-19 18:00:37,296 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 18:00:37,312 - app_logger - INFO - Dev data size: 1895
+2024-11-19 18:00:37,312 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train_aug.json
+2024-11-19 18:00:39,069 - app_logger - INFO - Train data size: 303374
+2024-11-19 18:01:19,507 - app_logger - INFO - 增强后的数据量：303374
+2024-11-19 18:01:31,175 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 18:01:31,795 - app_logger - INFO - Train data size: 24165
+2024-11-19 18:01:31,797 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 18:01:31,815 - app_logger - INFO - Dev data size: 1895
+2024-11-19 18:01:31,815 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train_aug.json
+2024-11-19 18:01:33,516 - app_logger - INFO - Train data size: 303374
+2024-11-19 18:13:35,494 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 18:13:37,301 - app_logger - INFO - Train data size: 303374
+2024-11-19 18:13:37,301 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 18:13:37,321 - app_logger - INFO - Dev data size: 1895
+2024-11-19 18:29:20,798 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-19 18:29:20,800 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-19 18:29:22,039 - app_logger - INFO - Save complete! Save txt "train.txt", size: 304059
+2024-11-19 18:29:28,428 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-19 18:29:28,428 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.txt
+2024-11-19 18:29:28,446 - app_logger - INFO - Save complete! Save txt "dev.txt", size: 1946
+2024-11-19 18:49:22,642 - app_logger - INFO - 增强后的数据量: 72495
+2024-11-19 18:49:35,403 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 18:49:37,005 - app_logger - INFO - Train data size: 303374
+2024-11-19 18:49:37,006 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 18:49:37,022 - app_logger - INFO - Dev data size: 1895
+2024-11-19 18:51:29,248 - app_logger - INFO - 增强后的数据量: 72495
+2024-11-19 18:51:46,447 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-19 18:51:47,859 - app_logger - INFO - Train data size: 72495
+2024-11-19 18:51:47,860 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-19 18:51:47,880 - app_logger - INFO - Dev data size: 1895
+2024-11-19 18:55:37,665 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-19 18:55:37,670 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-19 18:55:38,585 - app_logger - INFO - Save complete! Save txt "train.txt", size: 75108
+2024-11-19 18:55:45,367 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-19 18:55:45,368 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.txt
+2024-11-19 18:55:45,390 - app_logger - INFO - Save complete! Save txt "dev.txt", size: 1946
+2024-11-21 17:06:37,663 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-21 17:06:38,305 - app_logger - INFO - Train data size: 24165
+2024-11-21 17:06:38,306 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-21 17:06:38,325 - app_logger - INFO - Dev data size: 1895
+2024-11-21 17:07:52,769 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-21 17:07:52,775 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.txt
+2024-11-21 17:07:53,003 - app_logger - INFO - Save complete! Save txt "train.txt", size: 24850
+2024-11-21 17:07:58,444 - app_logger - INFO - Directory exists: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\pre_data
+2024-11-21 17:07:58,445 - app_logger - INFO - Save data to: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.txt
+2024-11-21 17:07:58,475 - app_logger - INFO - Save complete! Save txt "dev.txt", size: 1946
+2024-11-21 17:09:12,979 - app_logger - INFO - Train data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\train.ori_data
+2024-11-21 17:09:13,557 - app_logger - INFO - Train data size: 24165
+2024-11-21 17:09:13,558 - app_logger - INFO - Dev data path: D:\Files\OneDrive\Codes\PyCharmProjects\NLP_exp_2\data\ori_data\dev.ori_data
+2024-11-21 17:09:13,574 - app_logger - INFO - Dev data size: 1895

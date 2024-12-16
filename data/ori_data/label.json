@@ -1,0 +1,9 @@
+{
+    "Location" : "地点",
+    "Abstract" : "作品",
+    "Time" : "时间",
+    "Thing" : "事物",
+    "Metric" : "度量",
+    "Person" : "人物",
+    "Organization" : "组织或机构"   
+}
