@@ -2,6 +2,10 @@
 
 # 北京交通大学NLP课程命名实体识别（NER）实验
 
+> 注：
+>
+> 该项目待使用 PyTorch Lightning 重构，有望实现多 GPU 训练。但是最近有些忙，也不知道什么时候完成，争取 25 年 1 月份搞定，orz。
+
 北京交通大学自然语言处理课程命名实体识别，基于 BERT + BiLSTM + CRF，实验所需的语料库为散文数据集[lancopku/Chinese-Literature-NER-RE-Dataset: A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text (github.com)](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)。
 
 本次实验基于 Pytorch 编码实现，实验结果为**根目录**的 **predict_result.json** 文件。
